@@ -1,3 +1,3 @@
 import os
 
-os.environ.setdefault('SECRET_KEY', 'django-insecure-(v89os*g)jrd9=pi(dmn#u55a4^@ue40qzr!d$s4#=$xw5vzh^')
+os.environ.setdefault('SECRET_KEY', 'django-insecure-%jgrcsb%4bkycs4%#8gsnn=%3hub0ok6go7i_^mhx1r#!!%6@_')
